@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1731569271 source:c:\users\otnie\onedrive\documents\project tpt\prolog kopi\qrcodegen.c
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+
+1731569287 c:\users\otnie\onedrive\documents\project tpt\prolog kopi\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1731997562 source:c:\users\otnie\onedrive\documents\project tpt\prolog kopi\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"qrcodegen.h"
+	<time.h>
+	"stb_image_write.h"
+
+1731575556 c:\users\otnie\onedrive\documents\project tpt\prolog kopi\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
